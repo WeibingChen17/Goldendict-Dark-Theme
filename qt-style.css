@@ -3,8 +3,8 @@ MainWindow #searchPane #translateLine, MainWindow #searchPane #wordList
 	background: #2A2928;
 	color: #D4D2CF;
 }
-MainWindow #translateLine, ScanPopup #translateLine, MainWindow #wordList, MainWindow #dictsPane #dictsList, MainWindow #historyPane #historyList, MainWindow #favoritePane #favoriteList
+MainWindow #translateLine, ScanPopup #translateLine, MainWindow #wordList, MainWindow #dictsPane #dictsList, MainWindow #historyPane #historyList, MainWindow #favoritesPane #favoritesTree
 {
-	background: #2A2928;
-    color: #D4D2CF
+	background: #2A2928 !important;
+    color: #D4D2CF !important;
 }
